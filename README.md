@@ -64,3 +64,8 @@ startxfce4
 ```
 sudo /etc/init.d/xrdp start
 ```
+
+### Stop the rdp server
+```
+sudo /etc/init.d/xrdp stop
+```
